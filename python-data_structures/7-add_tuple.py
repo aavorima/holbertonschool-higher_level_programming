@@ -1,4 +1,4 @@
-[200~#!/usr/bin/python3
+#!/usr/bin/python3
         def add_tuple(tuple_a=(), tuple_b=()):
             # İlk 2 elementi götürmək, əgər yoxdursa, 0 qəbul etmək
                 a1 = tuple_a[0] if len(tuple_a) > 0 else 0
