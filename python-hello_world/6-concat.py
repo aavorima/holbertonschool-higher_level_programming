@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-str1 = "Holberton"  # variable str1
-str2 = "School"     # variable str2
-# Using str1 and str2 to build the welcome message
-print("Welcome to " + str1 + " " + str2 + "!")
+str1 = "Welcome to "
+str2 = "Holberton School!"
+print(str1 + str2)
+# This script concatenates str1 and str2
