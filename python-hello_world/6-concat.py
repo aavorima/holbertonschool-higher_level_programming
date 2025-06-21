@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-str1 = "Holberton"  # variable str1
+str1 = "Holberton"
 str2 = "School"
-# Using str1 and str2 to print welcome message
+# Using str1 and str2 to build the welcome message
 print(f"Welcome to {str1} {str2}!")
